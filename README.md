@@ -11,7 +11,7 @@
 
 ## 1주차 문제(1/25 ~ 1/28)
 1/25, 백준 알고리즘  : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
-1/25, 백준 알고리즘  : [1769번 팩토리얼](https://www.acmicpc.net/problem/1769) </br>
+1/26, 백준 알고리즘  : [1769번 팩토리얼](https://www.acmicpc.net/problem/1769) </br>
 ## 2주차 문제 
 
 ## 3주차 문제
