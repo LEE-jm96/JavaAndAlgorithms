@@ -50,7 +50,7 @@ public class Bj16974_LevelBurger {
 			}else {//X가 total 이랑 같을때 
 				return patty[N];
 			}
-			
+			 
 			
 			//N = 4, x = 5 // N=2 x=4
 		}
