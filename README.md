@@ -1,5 +1,5 @@
 ## 커밋 메세지 컨벤션  ##
-<div style="font-size : 15px">
+<div style="font-size:10px">
 예시:</br> 
 추가시 -> feat : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
 추가시 -> feat : 1/25, 프로그래머스 레벨2 : [가장 큰 수 문제] </br>
