@@ -14,7 +14,7 @@
 1/25, 백준 알고리즘  : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
 1/26, 백준 알고리즘  : [1769번 3의배수](https://www.acmicpc.net/problem/1769) </br>
 1/27, 백준 알고리즘  : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) </br>
-1/27, 백준 알고리즘  : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) </br>
+1/28, 백준 알고리즘  : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) </br>
 ## 2주차 문제 
 
 ## 3주차 문제
