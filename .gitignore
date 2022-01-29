@@ -120,3 +120,4 @@ Icon
 #myignore
 JavaAndAlgorithms-1.iml
 .idea/
+out/
