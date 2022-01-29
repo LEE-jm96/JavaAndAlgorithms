@@ -22,13 +22,13 @@ O(N) : 재귀호출을 N번 수행하면 끝나기 때문입니다.</br>
 
 ---
 
-### 백준 1769 3의배수
+## 백준 1769 3의배수
 
 ![](https://images.velog.io/images/oh_yunseong/post/be84e2ee-ed59-4b0e-be83-42790589118f/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB1769_3%E1%84%8B%E1%85%B4%E1%84%87%E1%85%A2%E1%84%89%E1%85%AE.png)
 
 
 ---
-### 풀이
+## 풀이
 
 [3의배수] (https://www.acmicpc.net/problem/1769)</br>
 - 문자열 각 자릿수를 따서 더하고 한 자릿수가 되면 3의 배수인지 검사하면 된다. </br>
@@ -37,7 +37,7 @@ O(N) : 재귀호출을 N번 수행하면 끝나기 때문입니다.</br>
 
 - **함정** : 조건이 백만자릿수가 입력된다는 것. Int형으로는 10의 백만승 숫자를 받을 수 없다. -> 따라서 String 타입을 써줘야한다. </br>
 ---
-### 코드
+## 코드
 ``` java
 package Reculsive;
 
@@ -80,7 +80,7 @@ public class MultipleOf3 {
 
 
 ---
-### 백준 16974 레벨햄버거
+## 백준 16974 레벨햄버거
 
 ![](https://images.velog.io/images/oh_yunseong/post/46724161-737d-4742-8eab-f7269b566f85/%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8C%E1%85%AE%E1%86%AB16974_%E1%84%85%E1%85%A6%E1%84%87%E1%85%A6%E1%86%AF%E1%84%92%E1%85%A2%E1%86%B7%E1%84%87%E1%85%A5%E1%84%80%E1%85%A5.png)
 
@@ -176,6 +176,92 @@ public class Bj16974_LevelBurger {
 }
 
 ```
+## 백준 10994 별찍기-19
+
+
+## 문제
+
+![](https://images.velog.io/images/oh_yunseong/post/4fe62a5e-22f7-4615-ae49-bebab01313fa/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-01-30%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%202.32.40.png)
+
+___
+
+## 해석
+
+재귀로 그림의 규칙대로 찍으면 된다.
+배열을 선언해서 입력 받은 수 만큼 2차원 배열 길이를 초기화 해준다.
+입력값이 1 늘어날 때마다 한변의 길이가 **1+(n-1)*4**씩 늘어난다.(정사각형)
+
+> 이걸 활용해서 제일 바깥부분(0, 0)위치 부터 *을 넣어주고
+시작위치를 (2++,2++) 해주면 안쪽에서 다시 계속 재귀를 부른다. 
+그리고 N이되면 그때당시 시작위치에 *하나 넣어주면 끝이다.
+
+규칙만 알면 쉽게 풀 수 있는 문제 같다. 
+
+---
+## 코드
+
+``` java
+package Reculsive;
+
+import java.util.Scanner;
+
+public class Bj10994_star19 {
+	private static String [][] star;
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		//1, 5, 9, 13,...
+		//1+(N-1)*4;
+		int N = sc.nextInt();
+		int format = 1+(N-1)*4;
+		star = new String[format][format];//2 [5][10];
+		
+		for(int i = 0 ; i < star.length; i++) {
+			for(int j = 0; j < star[i].length ; j ++) {
+				star[i][j] = " ";
+			}
+		}
+		
+		int startI = 0, startJ = 0;
+		star(N, startI, startJ);
+		
+		
+		for(int i = 0 ; i < star.length; i++) {
+			for(int j = 0; j < star[i].length ; j ++) {
+				System.out.print(star[i][j]);
+			}
+			System.out.println();
+		}
+		//5 -> 10
+	}
+	public static void star(int N, int startI, int startJ) {
+		int format = 1+(N-1)*4;
+		if(N==1) {
+			star[startI][startJ] = "*";
+			return;
+		}else {
+			for(int i = startI ; i<format+startI; i++) {//0일땐 ~흘러가고 5
+				for(int j = startJ; j<format +startJ; j++) {
+					if(i==startI||i==(format)-1+startI) star[i][j] = "*";
+					else {
+						if(j==startJ||j==format-1+startJ) star[i][j] = "*";
+					}
+				}
+			}
+			star(N-1, startI+2, startJ+2);
+	}
+	
+
+	}
+	
+	
+	
+
+}
+
+```
+
+
+
 
 
 
