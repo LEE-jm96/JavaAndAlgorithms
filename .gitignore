@@ -117,3 +117,7 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
+#myignore
+JavaAndAlgorithms-1.iml
+.idea/
+out/
