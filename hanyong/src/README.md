@@ -21,14 +21,14 @@
 
 ## 1주차 문제(1/25 ~ 1/28)
 ------------------------
->1/25, 백준 알고리즘 : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
->1/26, 백준 알고리즘 : [1769번 3의배수](https://www.acmicpc.net/problem/1769) </br>
->1/27, 백준 알고리즘 : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) </br>
->1/28, 백준 알고리즘 : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) </br>
+>1/25, 백준 알고리즘 : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) ☑️ </br>
+>1/26, 백준 알고리즘 : [1769번 3의배수](https://www.acmicpc.net/problem/1769) ☑️ </br>
+>1/27, 백준 알고리즘 : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) ☑️ </br>
+>1/28, 백준 알고리즘 : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) ☑️ </br>
 
 ## 2주차 문제(1/31 ~ 2/4)
 -----------------------
->1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) </br>
+>1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) ☑️ </br>
 >2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) </br>
 >2/2, 백준 알고리즘 : [9935번 문자열 폭발](https://www.acmicpc.net/problem/9935) </br>
 >2/3, 백준 알고리즘 : [10773번 제로](https://www.acmicpc.net/problem/10773) </br>
