@@ -19,12 +19,13 @@
 > - JAVA의 경우 java.util.Quene을 이용하여 Queue 생성 가능(LinkedList형태로 구현 -> LinkedList를 반드시 import 해줘야 함.)
 >> ####메소드 정리
 >> | 기능 | Throws exception | Return special value |
-   | ------ | --------- | --------- |
-   | 삽입 | add(e) | offer(e) |
-   | 삭제 | remove() | poll() |
-   | 조회 | element() | peek() |
+>> | ------ | --------- | --------- |
+>> | 삽입 | add(e) | offer(e) |
+>> | 삭제 | remove() | poll() |
+>> | 조회 | element() | peek() |
 >> - Throws exception     : 큐가 비어 있다면 예외 발생. </br>
 >> - Return special value : 큐가 비어 있다면 null 반환. </br>
+
 >####2-1.우선순위 큐(Priority Queue)
 > - 우선순위를 결정하고 우선순위가 높은 요소를 먼저 처리하는 구조.
 > - 내부 요소는 이진트리 구조로 이루어져 있음.
