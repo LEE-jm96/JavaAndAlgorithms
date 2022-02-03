@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 
 //백준 알고리즘 : 9935번, 문자열 폭발
-public class Baejoon_9935 {
+public class Baekjoon_9935 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
