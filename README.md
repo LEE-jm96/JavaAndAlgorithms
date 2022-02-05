@@ -25,3 +25,9 @@
 백준 알고리즘  : [1158번 요세푸스](https://www.acmicpc.net/problem/1158) </br>
 
 ## 3주차 문제
+2/7, 백준 알고리즘 : [11899번 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) </br>
+2/8, 백준 알고리즘 : [4949번 균형잡힌 세상](https://www.acmicpc.net/problem/4949) </br>
+2/9, 백준 알고리즘 : [1874번 스택수열](https://www.acmicpc.net/problem/1874) </br>
+2/10, 백준 알고리즘 : [5397번 키로거](https://www.acmicpc.net/problem/5397) </br>
+2/11, 백준 알고리즘 : [14713번 앵무새](https://www.acmicpc.net/problem/14713) </br>
+ 
