@@ -28,19 +28,8 @@ public class ProLv2_Truck2 {
 					bridge.add(0); 
 				}
 				answer++;
-			}else if (bridge.size() == bridge_length) {
-				int truck = bridge.poll(); 	
-				sum -= truck;
-	
-				if(weight >= sum + truck_weights[i]) {
-					bridge.add(truck_weights[i]);
-					sum += truck_weights[i];
-					i++;
-				}else {
-					bridge.add(0);
-				}
-				answer++;
-			}
+			}else sum -= bridge.poll(); 	
+			
 		}
 		
 		return answer+bridge_length;
