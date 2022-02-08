@@ -15,6 +15,7 @@ local.properties
 .recommenders
 .classpath
 .project
+.idea
 
 # External tool builders
 .externalToolBuilders/
@@ -117,7 +118,4 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
-#myignore
-JavaAndAlgorithms-1.iml
-.idea/
-out/
+
