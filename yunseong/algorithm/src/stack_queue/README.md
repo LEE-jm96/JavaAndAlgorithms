@@ -42,8 +42,7 @@
 >>>그리고 이것을 다리에 올라간 총 트럭의 무게에서 빼줍니다.
 >>>반복하면 마지막 트럭이 들어왔을때 반복문이 끝납니다. 
 >>>따라서 +다리길이를 해주면 문제 해결입니다.
->>>> 
->>>> ``` java
+``` java
   for(int i = 0 ; i < truck_weights.length ;) { 
               if(bridge.size() < bridge_length) {
                   if(weight >= sum + truck_weights[i]) {// 다리하중 > 트럭 총 무게 + 들어올트럭
