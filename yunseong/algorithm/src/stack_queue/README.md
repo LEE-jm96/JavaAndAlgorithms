@@ -13,8 +13,19 @@
 >>- Stack&Queue는 Collection의 대표적인 예 입니다.</br>
 >>- 이외에 List, Map, Set 인터페이스를 기준으로 여러 구현체가 존재합니다. </br>
 
+> Stack is LIFO(Last In First Out)
+>>method
+>>>1. pop(): 스택에서 가장 위에 있는 항목을 제거한다.
+>>>2. push(item): item 하나를 스택의 가장 윗 부분에 추가한다.
+>>>3. peek(): 스택의 가장 위에 있는 항목을 반환한다.
+>>>4. isEmpty(): 스택이 비어 있을 때에 true를 반환한다.
+
+https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
+
 ## 문제링크
 > [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)</br>
+> [다리를지나는트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)</br>
+> [스택수열](https://www.acmicpc.net/problem/1874)</br>
 ---
 ## 프로그래머스 레벨2 주식가격
 
