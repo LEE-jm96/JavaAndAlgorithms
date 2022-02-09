@@ -32,7 +32,7 @@ public class bj1874_stackSequence {
 				stack.push(j++);//1,2,5,7,8
 				list.add('+');
 			}
-			while(!stack.isEmpty()&&stack.peek()==origin[i]) {
+			if(!stack.isEmpty()&&stack.peek()==origin[i]) {
 				stack.pop();
 				list.add('-');				
 			}
