@@ -1,4 +1,4 @@
-package stack_queue;
+package algorithm.src.stack_queue;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

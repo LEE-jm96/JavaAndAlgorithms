@@ -1,5 +1,4 @@
-package stack_queue;
-
+package algorithm.src.stack_queue;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

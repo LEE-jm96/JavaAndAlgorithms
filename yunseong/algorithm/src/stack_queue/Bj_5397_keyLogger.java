@@ -1,5 +1,4 @@
-package stack_queue;
-
+package algorithm.src.stack_queue;
 
 import java.io.IOException;
 import java.util.Scanner;
