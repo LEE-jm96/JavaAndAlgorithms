@@ -19,7 +19,6 @@ public class bj1874 {
      * 입력받은 숫자가 num값보다 작은 경우
      * 문제에서 제시한 정렬을 할 수 없음으로 "NO" 출력
      * 입력받은 숫자 == 스택에 push한 숫자(위에 두조건이 ) => 해당 숫자 pop 하고 정답에 ("-\n")추가
-     *
      */
     public static String sol(int[] n){
         StringBuilder answer = new StringBuilder();
