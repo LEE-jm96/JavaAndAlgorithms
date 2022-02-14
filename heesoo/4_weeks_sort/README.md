@@ -23,6 +23,26 @@
        2) 선택 원소가 작을 경우 앞에 있던 원소를 한칸 뒤로 밀고 선택원소는 그보다 한칸 더 앞에 있던 원소와 비교를 한다.
 
 
-      
+### Arrays.sort()
+    : java.util.Arrays 클래스의 sort() 메서드이다. (Dual-Pivot Quick Sort 사용 <= InsertionSort + QuickSort)
+      소량 데이터 처리나, 순서 규칙적인 경우 Arrays.paralleSort()보다 성능이 좋다.
 
+### Arrays.parallelSort()
+    : java.util.Arrays 클래스의 paralleSort() 메서드이다. (Merge Sort 사용)
+      배열을 병렬로 정렬하는 기능 제공한다.
+      대량 데이터 처리가 Arrays.sort()보다 성능이 좋다.
+
+### Collections.sort()
+    : java.util.Collections 클래스의 sort() 메서드이다. (Tim Sort 사용 <= InsertionSort + MergeSort)
+      리스트를 정렬하는 기능을 제공한다.
+      평균적으로 Arrays.sort()보다 성능이 좋다.
+      
+      
+## 20220214 - 수 정렬하기 2 (백준 알고리즘 2751) 
+- 입력하는 수를 오름차순으로 정렬한다.
+- String 보다 StringBuffer, StringBuilder를 이용하여 속도를 줄인다. (String < StringBuffer < StringBuilder)-성능
+
+
+
+      
        
