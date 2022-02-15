@@ -10,7 +10,12 @@ import java.util.List;
 public class Baekjoon_14713 {
     public static void main(String[] args) throws IOException {
         /**
-         * 전략 :
+         * 전략 : 앵무새의 한문장을 한단어씩 split하여 큐에 넣고 그 큐를 큐 리스트에 넣는다.
+         *  cseteram의 String l의 한단어 한단어를 queueResult에 넣는다
+         * 큐들의 peek() 값들을 확인 하여  그 값들과 queueResult의 peek()를 .equals()로 비교한다.
+         * 큐들의 각각 peek() 값들이 일치하지 않으면 flag : false
+         * 큐들의 각각 peek() 값중에 하나가 일치하면 그 큐의 peek와 String l의 한단어를 뺀다.
+         * 다 검사하고 뺄게 남아있으면 flag :false
          * */
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // 큐
