@@ -9,6 +9,9 @@
 ###### 구조변경 -> docs : 1/25, add test project module  </br>
 ###### 구조변경 -> docs : 1/25, Update.Readme  </br>
 ###### 리팩토링 -> refactor : 1/25, 백준 알고리즘 : [1406번 에디터 문제] </br>
+---
+###### [git suggetion?](https://nesoy.github.io/articles/2019-11/Github-suggestion) </br>
+---
 ## 1주차 문제(1/25 ~ 1/28)
 1/25, 백준 알고리즘  : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) </br>
 1/26, 백준 알고리즘  : [1769번 3의배수](https://www.acmicpc.net/problem/1769) </br>
