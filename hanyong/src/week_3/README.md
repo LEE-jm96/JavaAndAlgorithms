@@ -35,12 +35,10 @@
 
 ## 2. 문제
 -------------------------
-> 1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) </br>
-> 2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) </br>
-> 2/2, 백준 알고리즘 : [9935번 문자열 폭발](https://www.acmicpc.net/problem/9935) </br>
-> 2/3, 백준 알고리즘 : [10773번 제로](https://www.acmicpc.net/problem/10773) </br>
-> 2/4, 프로그래머스 레벨2 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) </br>
+> 2/7, 백준 알고리즘 : [괄호 끼워넣기](https://www.acmicpc.net/problem/11899) </br>
+> 2/8, 백준 알고리즘 : [균형잡힌 세상](https://www.acmicpc.net/problem/4949) </br>
+> 2/9, 백준 알고리즘 : [스택수열](https://www.acmicpc.net/problem/1874) </br>
+> 2/10, 백준 알고리즘 : [키로거](https://www.acmicpc.net/problem/5397) </br>
+> 2/11, 백준 알고리즘 : [앵무새](https://www.acmicpc.net/problem/14713) </br>
 
-<예비 문제> </br>
->> 백준 알고리즘 : 1158번 [요세푸스](https://www.acmicpc.net/problem/1158) </br>
 ------------------------
