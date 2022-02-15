@@ -20,8 +20,8 @@ out/
 /*.ipr
 /wamma/src/ignore/
 /out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+!algorithm/main/**/out/
+!algorithm/test/**/out/
 
 
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
