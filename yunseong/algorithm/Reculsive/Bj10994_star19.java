@@ -1,4 +1,4 @@
-package Reculsive;
+package algorithm.Reculsive;
 
 import java.util.Scanner;
 

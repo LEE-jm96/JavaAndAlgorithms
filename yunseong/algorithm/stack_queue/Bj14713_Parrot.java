@@ -1,4 +1,4 @@
-package algorithm.src.stack_queue;
+package algorithm.stack_queue;
 
 import jdk.nashorn.internal.ir.WhileNode;
 
