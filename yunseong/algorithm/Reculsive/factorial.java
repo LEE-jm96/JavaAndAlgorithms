@@ -1,4 +1,4 @@
-package Reculsive;
+package algorithm.Reculsive;
 
 import java.io.BufferedReader;
 import java.io.IOException;
