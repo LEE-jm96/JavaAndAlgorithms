@@ -1,3 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+
+
+#my gitignore
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+/.idea
+/*.iws
+/*.iml
+/*.ipr
+/wamma/src/ignore/
+/out/
+!algorithm/main/**/out/
+!algorithm/test/**/out/
+
+
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,macos
 
@@ -15,7 +41,6 @@ local.properties
 .recommenders
 .classpath
 .project
-.idea
 
 # External tool builders
 .externalToolBuilders/
@@ -118,6 +143,3 @@ Icon
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
-
-JavaAndAlgorithms-1.iml
-out/
