@@ -56,7 +56,8 @@
 ### Arrays.sort()
     : Dual-Pivot QuickSort 사용 (InsertionSort + QuickSort)
       java.util.Arrays 클래스 sort() 메서드, 배열 자동 오름차순 정렬
-       소량 데이터 처리나, 순서 규칙적인 경우 Arrays.paralleSort()보다 성능이 좋다.
+      시간복잡도 평균: O(nlog(n)) 최악 : O(n^2)
+      소량 데이터 처리나, 순서 규칙적인 경우 Arrays.paralleSort()보다 성능이 좋다.
 
 ### Arrays.parallelSort()
     : java.util.Arrays 클래스의 paralleSort() 메서드이다. (Merge Sort 사용)
@@ -66,12 +67,34 @@
 ### Collections.sort()
     : TimSort 사용 (MergeSort + InsertSort)
       java.util.Collections 클래스 sort() 메서드(static), 리스트 자동 오름차순 정렬
+      시간복잡도 평균, 최악 : O(n^2)
 
 ### Arrays.sort() vs Collections.sort() 
     : Arrays.sort()에서 사용되는 QuickSort는 배열에서 좋은 성능을 보여 속도가 Collcetions.sort() 보다 좀 더 빠르다. 
       그러나 stable이 필요한 Object에서는 Collections.sort()가 많이 쓰인다.
 
-  
-      
+### Interface Comparable
+    : 정렬 수행 시 기본적으로 적용되는 정렬 기준이 되는 메서드를 정의하는 인터페이스이다.
+      compareTo() 메서드 작성법
+        - 현재객체 < 파라미터로 넘어온 객체 : 음수 리턴
+        - 현재객체 == 파라미터로 넘어온 객체 : 0 리턴
+        - 현재객체 > 파라미터로 넘어온 객체 : 양수 리턴
+          => 음수 또는 0이면 객체의 자리가 그대로 유지, 양수인 경우 두 객체의 자리가 바뀐다.
+      사용법 : Arrays.sort(array), Collections.sort(list)
+
+
+
+## 20220214 - 수 정렬하기 2 (백준 알고리즘 2751) 
+- 입력하는 수를 오름차순으로 정렬한다.
+- String 보다 StringBuffer, StringBuilder를 이용하여 속도를 줄인다. (String < StringBuffer < StringBuilder)-성능
+
+## 20220215 - 수 정렬하기 3 (백준 알고리즘 10989)
+- 입력하는 수를 오름차순으로 정렬한다.
+- String 보다 StringBuffer, StringBuilder를 이용하여 속도를 줄인다. (String < StringBuffer < StringBuilder)-성능
+- Arrays.sort()를 사용하였다.
+
+## 20220216 - 생일 (백준 알고리즘 5635)
+- 입력받은 이름과 생년월일 중에서 가장 나이가 적은 사람과 가장 나이가 많은 사람을 출력한다.
+- SimpleDateFormat으로 생년월일을 데이터형으로 바꾼후 Comparable 인터페이스의 Collections.sort()를 사용하여 정렬한다.
 
 
