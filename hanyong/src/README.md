@@ -15,29 +15,40 @@
 | Week | 완료 |주제 |
 | ------ | -- |----------- |
 | 1주차 | ☑️ | 재귀함수 |
-| 2주차 |  | 자료구조 활용(큐, 스택) |
-| 3주차 |  |  |
-| 4주차 |  |  |
+| 2주차 | ☑️ | 자료구조 활용(큐, 스택) |
+| 3주차 | ☑️ | 자료구조 활용(큐, 스택) |
+| 4주차 |  | 정렬 |
 
 ## 1주차 문제(1/25 ~ 1/28)
-------------------------
->1/25, 백준 알고리즘 : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) ☑️ </br>
->1/26, 백준 알고리즘 : [1769번 3의배수](https://www.acmicpc.net/problem/1769) ☑️ </br>
->1/27, 백준 알고리즘 : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) ☑️ </br>
->1/28, 백준 알고리즘 : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) ☑️ </br>
+------------------------------
+> 1/25, 백준 알고리즘 : [10872번 팩토리얼](https://www.acmicpc.net/problem/10872) ☑️ </br>
+> 1/26, 백준 알고리즘 : [1769번 3의배수](https://www.acmicpc.net/problem/1769) ☑️ </br>
+> 1/27, 백준 알고리즘 : [16974번 레벨 햄버거](https://www.acmicpc.net/problem/16974) ☑️ </br>
+> 1/28, 백준 알고리즘 : [10994번 별 찍기-19](https://www.acmicpc.net/problem/10994) ☑️ </br>
 
 ## 2주차 문제(1/31 ~ 2/4)
------------------------
->1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) ☑️ </br>
->2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) </br>
->2/2, 백준 알고리즘 : [9935번 문자열 폭발](https://www.acmicpc.net/problem/9935) </br>
->2/3, 백준 알고리즘 : [10773번 제로](https://www.acmicpc.net/problem/10773) </br>
->2/4, 프로그래머스 레벨2 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) </br>
+------------------------------
+> 1/31, 프로그래머스 레벨2 : [주식 가격](https://programmers.co.kr/learn/courses/30/lessons/42584) ☑️ </br>
+> 2/1, 프로그래머스 레벨2 : [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) ☑️ </br>
+> 2/2, 백준 알고리즘 : [9935번 문자열 폭발](https://www.acmicpc.net/problem/9935) ☑️ </br>
+> 2/3, 백준 알고리즘 : [10773번 제로](https://www.acmicpc.net/problem/10773) ☑️ </br>
+> 2/4, 프로그래머스 레벨2 : [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) ☑️ </br>
 
 <예비 문제> </br>
->	>백준 알고리즘 : 1158번 [요세푸스](https://www.acmicpc.net/problem/1158) </br>
+>	>백준 알고리즘 : 1158번 [요세푸스](https://www.acmicpc.net/problem/1158) ☑️ </br>
 
- 
+## 3주차 문제(2/7 ~ 2/11)
+------------------------------
+> 2/7, 백준 알고리즘 : [11899번 괄호 끼워넣기](https://www.acmicpc.net/problem/11899) ☑️ </br>
+> 2/8, 백준 알고리즘 : [4949번 균형잡힌 세상](https://www.acmicpc.net/problem/4949) ☑️ </br>
+> 2/9, 백준 알고리즘 : [1874번 스택수열](https://www.acmicpc.net/problem/1874) ☑️ </br>
+> 2/10, 백준 알고리즘 : [5397번 키로거](https://www.acmicpc.net/problem/5397) ☑️ </br>
+> 2/11, 백준 알고리즘 : [14713번 앵무새](https://www.acmicpc.net/problem/14713) ☑️ </br>
 
-## 3주차 문제
------------
+## 4주차 문제(2/14 ~ 2/18)
+------------------------------
+> 2/14, 백준 알고리즘 : [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751) ☑️ </br>
+> 2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989) ☑️ </br>
+> 2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635) ☑️ </br>
+> 2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755)</br>
+> 2/18, 백준 알고리즘 : [2048번 n번째 큰 수](https://www.acmicpc.net/problem/2048)</br>
