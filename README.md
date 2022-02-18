@@ -41,3 +41,10 @@
 2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635) </br>
 2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755) </br>
 2/18, 백준 알고리즘 : [2075번 n번째 큰 수](https://www.acmicpc.net/problem/2075) </br>
+
+## 5주차 문제(2/21 ~ 2/25)
+2/21, 백준 알고리즘 : [11651번 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) </br>
+2/22, 백준 알고리즘 : [14729번 칠무해](https://www.acmicpc.net/problem/14729) </br>
+2/23, 백준 알고리즘 : [7795번 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) </br>
+2/24, 백준 알고리즘 : [13164번 행복유치원](https://www.acmicpc.net/problem/13164) </br>
+2/25, 백준 알고리즘 : [18310번 안테나](https://www.acmicpc.net/problem/18310) </br>
