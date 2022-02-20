@@ -50,5 +50,8 @@
 > 2/14, 백준 알고리즘 : [2751번 수 정렬하기 2](https://www.acmicpc.net/problem/2751) ☑️ </br>
 > 2/15, 백준 알고리즘 : [10989번 수 정렬하기 3](https://www.acmicpc.net/problem/10989) ☑️ </br>
 > 2/16, 백준 알고리즘 : [5635번 생일](https://www.acmicpc.net/problem/5635) ☑️ </br>
-> 2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755)</br>
-> 2/18, 백준 알고리즘 : [2048번 n번째 큰 수](https://www.acmicpc.net/problem/2048)</br>
+> 2/17, 백준 알고리즘 : [1755번 숫자놀이](https://www.acmicpc.net/problem/1755) ☑ </br>
+> 2/18, 백준 알고리즘 : [2075번 n번째 큰 수](https://www.acmicpc.net/problem/2075) ☑ </br>
+
+## 5주차 문제(2/21 ~ 2/25)
+------------------------------

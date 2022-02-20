@@ -9,7 +9,7 @@ public class bj5635 {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         String arr[][] = new String[num][4];
-
+        
         for (int i = 0; i < num; i++) {
             for (int j = 0; j < 4; j++) {
                 arr[i][j] = sc.next();
