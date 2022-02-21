@@ -45,8 +45,8 @@
 ---
 
 ## 📌 버블정렬
-<details>
-<summary style="font-size: ">:: 👀 학습내용 확인하기 :: </summary>
+<h3><details>
+<summary>:: 👀 학습내용 확인하기 :: </summary>
 <div markdown="1">
 
 ---
@@ -77,6 +77,7 @@
 
 </div>
 </details>
+</h3>
 
 ## 📌 단순선택정렬
 ## 📌 단순삽입정렬
