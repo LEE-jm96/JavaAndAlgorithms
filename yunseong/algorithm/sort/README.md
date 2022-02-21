@@ -46,7 +46,7 @@
 
 ## 📌 버블정렬
 <details>
-<summary style="font-size: 20px">:: 👀 학습내용 확인하기 :: </summary>
+<summary style="font-size: 30px">:: 👀 학습내용 확인하기 :: </summary>
 <div markdown="1">
 
 ---
