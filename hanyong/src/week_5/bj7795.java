@@ -1,5 +1,5 @@
 package week_5;
-
+//리버트
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
