@@ -48,3 +48,10 @@
 2/23, 백준 알고리즘 : [7795번 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) </br>
 2/24, 백준 알고리즘 : [13164번 행복유치원](https://www.acmicpc.net/problem/13164) </br>
 2/25, 백준 알고리즘 : [18310번 안테나](https://www.acmicpc.net/problem/18310) </br>
+
+## 6주차 문제(2/28 ~ 3/4)
+2/28, 백준 알고리즘 : [2309번 일곱 난쟁이](https://www.acmicpc.net/problem/2309) </br>
+3/1, 백준 알고리즘 : [7568번 덩치](https://www.acmicpc.net/problem/7568) </br>
+3/2, 백준 알고리즘 : [1120번 문자열](https://www.acmicpc.net/problem/1120) </br>
+3/3, 백준 알고리즘 : [1476번 날짜계산](https://www.acmicpc.net/problem/1476) </br>
+3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) </br>
