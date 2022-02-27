@@ -34,7 +34,8 @@
 >> 시간복잡도 - 최선 : O(n) /평균 : O(n^1.5) /최악 : O(n^2)
 
 
-### 2. Array.sort 와 Collections.sort 의 차이
+
+### 2. Array.sort VS Collections.sort
 > 2.1 Array.sort
 >> 배열을 정렬할 때 사용. </br>
 >> Dual-Pivot Quicksort를 사용하여 정렬 </br>
@@ -49,14 +50,14 @@
 >> 내림차순 정렬 방법 : Collections.reverse(list);</br>
 >> aaa </br>
 
-### 3. Comparable
-> 3.1
->> #### 
+### 3. Comparable VS Comparator
+> 3.1 Comparable
+>> 정렬 수행 시 기본적으로 적용되는 정렬 기준이 되는 메서드를 정의하는 인터페이스
 >>
 >>
-> 3.2
->>
-
+> 3.2 Comparator
+>> 정렬 가능한 클래스(Comparable 인터페이스를 구현한 클래스)들의 기본 정렬 기준과 다르게 정렬 하고 싶을 때 사용하는 인터페이스
+>> 
 
 ## 2. 문제
 -------------------------
