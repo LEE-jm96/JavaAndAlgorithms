@@ -55,3 +55,10 @@
 3/2, 백준 알고리즘 : [1120번 문자열](https://www.acmicpc.net/problem/1120) </br>
 3/3, 백준 알고리즘 : [1476번 날짜계산](https://www.acmicpc.net/problem/1476) </br>
 3/4, 백준 알고리즘 : [9663번 N-Queen](https://www.acmicpc.net/problem/9663) </br>
+
+## 7주차 문제(3/7 ~ 3/11)
+3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
+3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
+3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/2503) </br>
+3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/2178) </br>
+3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
