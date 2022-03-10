@@ -47,4 +47,11 @@
 2/22, 백준 알고리즘 : [14729번 칠무해](https://www.acmicpc.net/problem/14729) </br>
 2/23, 백준 알고리즘 : [7795번 먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) </br>
 2/24, 백준 알고리즘 : [13164번 행복유치원](https://www.acmicpc.net/problem/13164) </br>
-2/25, 백준 알고리즘 : [18310번 안테나](https://www.acmicpc.net/problem/18310) </br>
+2/25, 백준 알고리즘 : [18310번 안테나](https://www.acmicpc.net/problem/18310) </br> 
+
+## 👀 7주차 문제(3/7 ~ 3/11)
+3/7, 백준 알고리즘 : [3085번 사탕 게임](https://www.acmicpc.net/problem/3085) </br>
+3/8, 백준 알고리즘 : [1182번 부분수열의 합](https://www.acmicpc.net/problem/1182) </br>
+3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/2503) </br>
+3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/2178) </br>
+3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
