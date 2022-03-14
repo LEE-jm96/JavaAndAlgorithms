@@ -62,3 +62,10 @@
 3/9, 백준 알고리즘 : [2503번 숫자야구](https://www.acmicpc.net/problem/2503) </br>
 3/10, 백준 알고리즘 : [2178 미로탐색](https://www.acmicpc.net/problem/2178) </br>
 3/11, 백준 알고리즘 : [1759번 암호 만들기](https://www.acmicpc.net/problem/1759) </br>
+
+## 8주차 문제(3/14 ~ 3/18)
+3/14, 백준 알고리즘 : [1302번 베스트셀러](https://www.acmicpc.net/problem/1302) </br>
+3/15, 백준 알고리즘 : [9375번 패션왕 신해빈](https://www.acmicpc.net/problem/9375) </br>
+3/16, 백준 알고리즘 : [1620번 나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) </br>
+3/17, 백준 알고리즘 : [13414번 수강신청](https://www.acmicpc.net/problem/13414) </br>
+3/18, 프로그래머스 레벨2 : [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) </br>
